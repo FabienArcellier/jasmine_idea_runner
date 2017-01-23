@@ -1,0 +1,21 @@
+{
+  "name": "jasmine-idea-runner",
+  "version": "1.0.0",
+  "description": "jasmine-idea-runner is an attempt to add the support of debug run of a jasmine spec file on Idea EDI.",
+  "main": "bin/jasmine-idea-runner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "F.Arcellier",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/FabienArcellier/jasmine_idea_runner.git"
+  },
+  "bin": {
+    "jasmine-runner-idea" : "bin/jasmine-idea-runner.js"
+  }
+}
