@@ -15,8 +15,11 @@ Inspired of Mocha implementation, it's an attent to implement this feature over 
 ## Installation
 
 ```bash
-npm install jasmine_idea_runner
+npm install jasmine-idea-runner
 ```
+
+In IDEA Intellij, add the interpreter `jasmine-idea-runner` in *Languages & Frameworks* / *Node.js and NPM* and replace the
+default interpreter by it.
 
 ## Contributors
 
